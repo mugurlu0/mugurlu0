@@ -16,10 +16,9 @@
 
 [<img align="left" alt="Mehmet Uğurlu | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/mehmet-ugurlu/)
 
-[<img align="left" alt="Mehmet Uğurlu | Outlook" width="22px" src="https://image.flaticon.com/icons/png/512/1363/1363019.png" />](mailto:mehmetugurlu0@hotmail.com)
-
-
 [<img align="left" alt="Mehmet Uğurlu | Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png"/>](mailto:0mehmetugurlu0@gmail.com)
+
+[<img align="left" alt="Mehmet Uğurlu | Outlook" width="22px" src="https://image.flaticon.com/icons/png/512/1363/1363019.png" />](mailto:mehmetugurlu0@hotmail.com)
 
 <br>
 
