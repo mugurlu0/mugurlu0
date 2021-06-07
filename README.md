@@ -15,6 +15,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Mehmet Uğurlu | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/mehmet-ugurlu/)
+[Gmail](<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>)
+[Outlook](<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>)
 
 <br>
 
