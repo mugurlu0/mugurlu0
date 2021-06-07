@@ -1,6 +1,6 @@
 ![Banner](./Mugurlu0Banner.png)
 
-# Hi there 👋, I'm Mehmet
+# Hi there 👋, my name is Mehmet
 ---
 ## I'm a junior Web Developer @[BeCode](https://becode.org/)
 - 🚀 I’m currently learning ReactJS and NodeJS
