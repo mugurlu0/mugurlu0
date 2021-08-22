@@ -1,4 +1,4 @@
-![Banner](./Mugurlu0Banner.png)
+![Banner](./Mugurlu0Banner.svg)
 
 # Hi there 👋, my name is Mehmet
 ---
