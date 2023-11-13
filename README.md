@@ -2,7 +2,7 @@
 
 # Hi there 👋, my name is Mehmet
 ---
-## I'm a junior Web Developer @[BeCode](https://becode.org/)
+## I'm a Developer @[BeCode](https://becode.org/)
 - 🚀 I’m currently learning ReactJS and NodeJS
 - 👯 I’m looking to collaborate with other content creators
 
