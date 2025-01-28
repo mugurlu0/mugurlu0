@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=mugurlu0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/mugurlu0?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-${YOUR_REPO_COUNT}-blue" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-25-blue" alt="Repositories" />
   </a>
 </p>
 
